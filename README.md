@@ -5,6 +5,7 @@
 
 
 #### Then Create 1 role and that role create 10 policies that mention below
+#### administratoraccess and eks first 9 policies
 ![image](https://github.com/user-attachments/assets/313c7a91-2a82-438e-9b8f-dace89d6a7ae)
 
 #### Then create 1 instance 
